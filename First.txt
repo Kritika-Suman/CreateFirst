@@ -2,5 +2,5 @@
 
 main()
 {
-	printf("First");
+	printf("First Program");
 }
